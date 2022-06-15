@@ -3,7 +3,7 @@ This is my favourite monospaced fonts for Windows/Linux
 I always liked MacOS's San Fransisco font and Menlo thats why i included that.
 **To install the fonts**
 - Windows - simply click and install or select all and click install for all users
-- Linux -  paste the fonts in ~/.local/share/fonts. if fonts directory doesn't exist just create it.
+- Linux -  paste the fonts in `~/.local/share/fonts`. if fonts directory doesn't exist just create it.
 
 ***Fonts that are listed are*** -
 - Hack

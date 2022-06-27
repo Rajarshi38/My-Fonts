@@ -21,3 +21,4 @@ I always liked MacOS's San Fransisco font and Menlo thats why i included that.
 - Cascadia Code
 - IBM Plex Mono
 
+## Added the nerd fonts also
